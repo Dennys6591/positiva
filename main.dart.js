@@ -78424,7 +78424,7 @@ r=A.ayu(a,t.H2).a
 return A.a4p(B.Br,A.a4g(A.a([A.FJ(A.Jp(this.YS(q),null),2),A.FJ(A.Jp(this.YL(r,s,s+1,q),null),1)],t.p),B.bF,B.aS))},
 YS(a){var s=null,r=B.c.h9(a*0.05,9,22),q=a*0.04
 return A.ey(s,A.fy(A.a([A.e3("Noticias",s,s,s,A.eT(s,s,s,s,s,s,s,s,s,s,s,r,s,s,B.bn,s,s,!0,s,s,s,s,s,s,s,s),s,s),B.jT,A.anw(new A.adl(a,r),5,B.rK,!0)],t.p),B.bE,B.b6,B.aS),B.v,B.AW,s,s,s,s,new A.as(q,q,q,q),s)},
-YL(a,b,c,d){var s=null,r=d*0.03,q=B.c.h9(r,9,22)
+YL(a,b,c,d){var s=null,r=d*0.03,q=B.c.h9(r,5,22)
 return A.ey(s,A.fy(A.a([A.e3("Itinerario del D\xeda",s,s,s,A.eT(s,s,s,s,s,s,s,s,s,s,s,q,s,s,B.bn,s,s,!0,s,s,s,s,s,s,s,s),s,s),B.jT,A.anw(new A.adk(a,b,c,q,d),16,B.rK,!0)],t.p),B.bE,B.b6,B.aS),B.v,B.i,s,s,s,s,new A.as(r,r,r,r),s)}}
 A.adm.prototype={
 $0(){this.a.d=new A.ed(Date.now(),!1)},
